@@ -1,0 +1,6 @@
+{
+  "name": "Pithoragarh District GIS & Census Analytics Dashboard",
+  "description": "Interactive GIS boundary mapping and comprehensive Census demographic analytics dashboard for the 8 Community Development Blocks of Pithoragarh district, Uttarakhand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
