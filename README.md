@@ -2,7 +2,7 @@
 
 An interactive, single-file **Web GIS dashboard** that visualizes the administrative block boundaries of **Pithoragarh district, Uttarakhand** 🏔️ — with a clickable map, area rankings, and a sortable attribute table.
 
-🌐 **Live Demo:** [Pithoragarh-block-boundary.netlify.app](https://Pithoragarh-block-boundary.netlify.app/)
+🌐 **Live Demo:** [Pithoragarh-block-boundary.vercel.app](https://dashboard-pithoragarh-blocks.vercel.app/)
 
 ---
 
